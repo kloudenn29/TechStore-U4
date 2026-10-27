@@ -4,7 +4,7 @@
 * **Actividad:** Actividad 4 - Implementación del núcleo de negocio TechStore
 * **Materia:** Componentes de Lógica de Negocios
 * **Unidad:** 4
-* **Equipo:** 14 (CargoBox)
+* **Equipo:** 14
 * **Integrantes:** 
   * Pedro Omar Cardona Alvarez — Matrícula 2226579
   * Kloudenn Jafed Jiménez Valdivieso — Matrícula 2226639
