@@ -20,4 +20,4 @@ El proyecto contiene la implementación técnica de las Entidades y Value Object
 * `/app`: Contiene el núcleo del dominio, especificaciones y controladores de la API.
 * `/tests`: Suite de pruebas unitarias y de integración para validar las reglas y endpoints.
 * `/datos`: Archivos CSV de catálogo (clientes, productos, pedidos).
-* `/docs`: Archivos pdf como la bitacora, diagramas y el reporte con todo adjuntado
+* `/docs`: Archivos pdf de la bitacora el reporte con todo adjuntado
